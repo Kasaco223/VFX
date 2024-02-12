@@ -184,7 +184,7 @@ PrefabInstance:
     - target: {fileID: 4706480570924626625, guid: aa3dff91e76d4d24682c87e99e23a4ae,
         type: 3}
       propertyPath: m_Name
-      value: StaticParticle
+      value: MiniTornado
       objectReference: {fileID: 0}
     - target: {fileID: 8013853944245978399, guid: aa3dff91e76d4d24682c87e99e23a4ae,
         type: 3}
@@ -203,8 +203,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8013853944245978399, guid: aa3dff91e76d4d24682c87e99e23a4ae,
         type: 3}
+      propertyPath: InitialModule.rotation3D
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8013853944245978399, guid: aa3dff91e76d4d24682c87e99e23a4ae,
+        type: 3}
       propertyPath: InitialModule.startSize.scalar
-      value: 100
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 8013853944245978399, guid: aa3dff91e76d4d24682c87e99e23a4ae,
         type: 3}
@@ -1867,7 +1872,7 @@ PrefabInstance:
     - target: {fileID: 4768104788684132633, guid: bf97c8281f9c69e419d261767cd0bdef,
         type: 3}
       propertyPath: InitialModule.startSize.scalar
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4768104788684132633, guid: bf97c8281f9c69e419d261767cd0bdef,
         type: 3}
