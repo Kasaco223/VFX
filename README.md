@@ -1,7 +1,7 @@
 # VFX
 
-Entrega Samuel Kerguelen Garcia video final: 
+Entrega Samuel Kerguelen Garcia video final: https://youtu.be/XFOUw1VjoxY
 
-[![Texto alternativo](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=XFOUw1VjoxY)
+[![Entrega](https://img.youtube.com/vi/)](https://youtu.be/XFOUw1VjoxY)
 
-https://youtu.be/XFOUw1VjoxY
+
