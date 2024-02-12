@@ -1,1 +1,1 @@
-[![VideoYT](https://youtu.be/EPY10twiU0E)
+[VideoYT](https://youtu.be/EPY10twiU0E)
